@@ -1,0 +1,256 @@
+#top{
+    background-color: green;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#container1{
+    display: flex;
+    gap: 5%;
+    
+}
+#container2{
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    
+
+}
+#container3{
+    background-color: blanchedalmond;
+    text-align: center;
+    
+
+}
+b{
+    color: green;
+}
+#container4{
+    background-color: gainsboro;
+    display: flex;
+    text-align: end;
+    
+    
+}
+#container5{
+    display: flex;
+    background-color: gainsboro;
+    
+    text-align: end;
+    width: 1200px;
+    
+    
+
+}
+#container6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#container7{
+    display: flex;
+    background-color: gainsboro;
+}
+#container8{
+    display: flex;
+    background-color: gainsboro;
+}
+#container9{
+    display: flex;
+    background-color: gainsboro;
+}
+#alone{
+    display: flex;
+    justify-content: space-evenly;
+}
+#container10{
+    display: flex;
+    flex-direction: row;
+}
+#container11{
+    
+    
+    background-color: gainsboro;
+}
+#container12{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+button{
+    background-color: green;
+}
+#container13{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#container14{
+    text-align: center;
+    background-color: gainsboro;
+}
+#container15{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#container16{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gainsboro;
+}
+header2{
+    color: green;
+}
+#container17{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#container18{
+    text-align: center;
+}
+#container19{
+    display: flex;
+    justify-content: space-evenly;
+    width: 85%;
+}
+#container20{
+    text-align: center;
+}
+#container21{
+    display: flex;
+    justify-content: space-between;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+@media screen and (max-width:1280px) {
+    #container1{
+        display: flex;
+        flex-direction: column;
+    }
+    .image1{
+        width: 45%;
+    }
+    #container5{
+        display: flex;
+        flex-direction: column;
+        width: 95%;
+    }
+    #page{
+        font-size: smaller;
+    }
+    #container6{
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    #container21{
+        width: 95%;
+        font-size: xx-small;
+    }
+    #container17{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #container15{
+        width: 5%;
+        display: flex;
+        flex-direction: row;
+
+        
+    }
+    #container13{
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    .image2{
+        width: 2%;
+    }
+    .imagemedial3{
+        width: 85%;
+    }
+    #container16{
+        width: 85%;
+    }
+    #container3{
+        width: 85%;
+    }
+    
+    
+    #container00{
+        width: 45%;
+    }
+    #container6{
+        padding-right: 1%;
+        margin-right: 2%;
+        width: 75%;
+
+    }
+    #container2{
+        width: 85%;
+    }
+    #top{
+        width: 85%;
+    }
+    #navbar{
+        width: 85%;
+    }
+    #container12{
+        display: flex;
+        flex-wrap: wrap;
+        width: 5%;
+    }
+    #container10{
+        display: flex;
+        flex-wrap: wrap;
+        width: 5%;
+
+    }
+    #container15{
+        width: 5%;
+        padding-left: 45%;
+    }
+    #containermedial11{
+        width: 2%;
+    }
+    #containermedial12{
+        width: 3%;
+    }
+    #container14{
+        width: 85%;
+    }
+    #container19{
+        width: 90%;
+    }
+    .img{
+        width: 75%;
+    }
+    #container16{
+        padding-left: 1%;
+    }
+    h1{
+        font-size: small;
+    }
+    .img2{
+        width: 35%;
+    }
+    .img3{
+        width: 25%;
+    }
+    h2{
+        font-size: small;
+    }
+}
+
+
+
+
+    
+
+    
+
+
+    
