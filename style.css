@@ -135,6 +135,7 @@ header2{
     }
     #container5{
         display: flex;
+        justify-content: space-evenly;
         flex-direction: column;
         width: 95%;
     }
@@ -199,14 +200,12 @@ header2{
         width: 85%;
     }
     #container12{
-        display: flex;
-        flex-wrap: wrap;
-        width: 5%;
+        display: grid;
+        grid-template-rows: auto auto auto;
     }
     #container10{
         display: flex;
-        flex-wrap: wrap;
-        width: 5%;
+        flex-direction: column;
 
     }
     #container15{
@@ -226,7 +225,7 @@ header2{
         width: 90%;
     }
     .img{
-        width: 75%;
+        width: 70px;
     }
     #container16{
         padding-left: 1%;
@@ -243,6 +242,21 @@ header2{
     h2{
         font-size: small;
     }
+    #containerya{
+        display: flex;
+        flex-direction: row;
+    }
+    #containermmm{
+        display: flex;
+        flex-direction: row;
+    }
+    #containery{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    
 }
 
 
